@@ -1,0 +1,7 @@
+[
+    { "name": "Jack" , "role": "React Developer" , "age": 23 },
+    { "name": "John" , "role": "Web Developer" , "age": 21 },
+    { "name": "Lily" , "role": "Java Developer" , "age": 24 },
+    { "name": "Rose" , "role": "UI/UX Designer" , "age": 19 },
+    { "name": "Brad" , "role": "Data Scientist" , "age": 24 }
+]
