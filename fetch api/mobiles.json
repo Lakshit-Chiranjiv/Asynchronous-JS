@@ -1,0 +1,8 @@
+[
+    { "mobile_company_name": "Vivo", "price": 30000  },
+    { "mobile_company_name": "Apple", "price": 120000  },
+    { "mobile_company_name": "Samsung", "price": 50000  },
+    { "mobile_company_name": "Oppo", "price": 20000  },
+    { "mobile_company_name": "Redmi", "price": 18000  },
+    { "mobile_company_name": "Infinix", "price": 15000  }
+]

@@ -1,0 +1,6 @@
+[
+    { "game": "cricket", "players": 11 },
+    { "game": "football", "players": 11 },
+    { "game": "hockey", "players": 9 },
+    { "game": "kabaddi", "players": 7 }
+]
