@@ -1,0 +1,5 @@
+[
+    { "operating_system": "windows" , "founded_year": 1985 },
+    { "operating_system": "mac OS" , "founded_year": 1984 },
+    { "operating_system": "linux" , "founded_year": 1991 }
+]

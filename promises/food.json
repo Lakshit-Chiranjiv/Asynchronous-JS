@@ -1,0 +1,7 @@
+[
+    { "foodname": "french fries" , "price": 120 },
+    { "foodname": "burger" , "price": 100 },
+    { "foodname": "pizza" , "price": 150 },
+    { "foodname": "ice-cream" , "price": 40 },
+    { "foodname": "kulfi" , "price": 50 }
+]

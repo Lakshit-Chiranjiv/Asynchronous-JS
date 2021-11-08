@@ -1,0 +1,7 @@
+[
+    { "laptop": "DELL" , "price": 35000 },
+    { "laptop": "Lenovo" , "price": 50000 },
+    { "laptop": "HP" , "price": 40000 },
+    { "laptop": "Acer" , "price": 80000 },
+    { "laptop": "Apple" , "price": 105000 }
+]
